@@ -1,0 +1,16 @@
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.exe
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.deps.json
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.json
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.runtimeconfig.dev.json
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.dll
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\bin\Debug\net5.0\HelloCSharp.pdb
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.AssemblyInfoInputs.cache
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.AssemblyInfo.cs
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.sourcelink.json
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.dll
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\refint\HelloCSharp.dll
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.pdb
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\HelloCSharp.genruntimeconfig.cache
+D:\workspace\CSharp_basic\PracticeApp\PracticeApp\obj\Debug\net5.0\ref\HelloCSharp.dll

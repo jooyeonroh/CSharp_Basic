@@ -1,0 +1,15 @@
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.exe
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.deps.json
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.runtimeconfig.json
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.runtimeconfig.dev.json
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.dll
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\ref\PracticeApp.dll
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\bin\Release\net5.0\PracticeApp.pdb
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.AssemblyInfoInputs.cache
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.AssemblyInfo.cs
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.csproj.CoreCompileInputs.cache
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.dll
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\ref\PracticeApp.dll
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.pdb
+C:\Users\doms\Documents\sero\c#prac\백견\PracticeApp\PracticeApp\obj\Release\net5.0\PracticeApp.genruntimeconfig.cache
