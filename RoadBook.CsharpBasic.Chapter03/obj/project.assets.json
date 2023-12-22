@@ -8,26 +8,35 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\82109\\.nuget\\packages\\": {}
+    "C:\\Users\\doms\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\workspace\\CSharp_basic\\PracticeApp\\RoadBook.CsharpBasic.Chapter03\\RoadBook.CsharpBasic.Chapter03.csproj",
+      "projectUniqueName": "C:\\Users\\doms\\Documents\\sero\\CSharp_Basic\\RoadBook.CsharpBasic.Chapter03\\RoadBook.CsharpBasic.Chapter03.csproj",
       "projectName": "RoadBook.CsharpBasic.Chapter03",
-      "projectPath": "D:\\workspace\\CSharp_basic\\PracticeApp\\RoadBook.CsharpBasic.Chapter03\\RoadBook.CsharpBasic.Chapter03.csproj",
-      "packagesPath": "C:\\Users\\82109\\.nuget\\packages\\",
-      "outputPath": "D:\\workspace\\CSharp_basic\\PracticeApp\\RoadBook.CsharpBasic.Chapter03\\obj\\",
+      "projectPath": "C:\\Users\\doms\\Documents\\sero\\CSharp_Basic\\RoadBook.CsharpBasic.Chapter03\\RoadBook.CsharpBasic.Chapter03.csproj",
+      "packagesPath": "C:\\Users\\doms\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\doms\\Documents\\sero\\CSharp_Basic\\RoadBook.CsharpBasic.Chapter03\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\82109\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\doms\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,8 +60,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62678a07c5076608de607f88330ec4648507921d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
