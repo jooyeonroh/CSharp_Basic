@@ -1,0 +1,7 @@
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\bin\Debug\RoadBook.CsharpBasic.Chapter01.exe.config
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\bin\Debug\RoadBook.CsharpBasic.Chapter01.exe
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\bin\Debug\RoadBook.CsharpBasic.Chapter01.pdb
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\obj\Debug\RoadBook.CsharpBasic.Chapter01.csproj.AssemblyReference.cache
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\obj\Debug\RoadBook.CsharpBasic.Chapter01.csproj.CoreCompileInputs.cache
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\obj\Debug\RoadBook.CsharpBasic.Chapter01.exe
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\RoadBook.CsharpBasic.Chapter01\obj\Debug\RoadBook.CsharpBasic.Chapter01.pdb

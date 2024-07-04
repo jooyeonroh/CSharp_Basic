@@ -1,0 +1,7 @@
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Release\MyFirstApp.exe.config
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Release\MyFirstApp.exe
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Release\MyFirstApp.pdb
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Release\MyFirstApp.csproj.AssemblyReference.cache
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Release\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Release\MyFirstApp.exe
+C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Release\MyFirstApp.pdb
