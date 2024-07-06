@@ -1,7 +1,7 @@
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe.config
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.exe
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\bin\Debug\MyFirstApp.pdb
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.AssemblyReference.cache
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.csproj.CoreCompileInputs.cache
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.exe
-C:\Users\doms\Documents\sero\study_dev\CSharp\MyFirstApp\MyFirstApp\obj\Debug\MyFirstApp.pdb
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.exe.config
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.exe
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/bin/Debug/MyFirstApp.pdb
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csproj.AssemblyReference.cache
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.csproj.CoreCompileInputs.cache
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.exe
+C:/Users/doms/Documents/sero/study_dev/CSharp/MyFirstApp/MyFirstApp/obj/Debug/MyFirstApp.pdb
