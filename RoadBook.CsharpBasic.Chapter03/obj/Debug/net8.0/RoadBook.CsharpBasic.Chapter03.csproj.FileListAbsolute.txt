@@ -1,0 +1,15 @@
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.AssemblyInfoInputs.cache
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.AssemblyInfo.cs
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.csproj.CoreCompileInputs.cache
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.sourcelink.json
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/bin/Debug/net8.0/RoadBook.CsharpBasic.Chapter03
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/bin/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.deps.json
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/bin/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.runtimeconfig.json
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/bin/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.dll
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/bin/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.pdb
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.dll
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/refint/RoadBook.CsharpBasic.Chapter03.dll
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.pdb
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/RoadBook.CsharpBasic.Chapter03.genruntimeconfig.cache
+/Users/sarah/sero/Study/CSharp_Basic/RoadBook.CsharpBasic.Chapter03/obj/Debug/net8.0/ref/RoadBook.CsharpBasic.Chapter03.dll
