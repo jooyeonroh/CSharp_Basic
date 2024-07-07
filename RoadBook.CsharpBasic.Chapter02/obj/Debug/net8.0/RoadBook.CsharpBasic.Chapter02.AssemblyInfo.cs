@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72ca7a4b28dc66c1d527b5fa660ce2b9a09d2b3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25d5c52f5e5583ecf0cedfaaf273a80d6186dd34")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoadBook.CsharpBasic.Chapter02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

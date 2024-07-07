@@ -37,8 +37,14 @@ namespace RoadBook.CsharpBasic.Chapter02
             // Examples.Ex009 ex009 = new Examples.Ex009();
             // ex009.Run();
 
-            Examples.Ex010 ex010 = new Examples.Ex010();
-            ex010.Run();
+            // Examples.Ex010 ex010 = new Examples.Ex010();
+            // ex010.Run();
+
+            // Examples.Ex011 ex011 = new Examples.Ex011();
+            // ex011.Run();
+
+            Examples.Ex012 ex012 = new Examples.Ex012();
+            ex012.Run();
         }
     }
 }
